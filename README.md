@@ -97,7 +97,7 @@ private string state_detail(int id)
 ZayaApiClient.Account.Details()
 
 //For example 
-private string Details(int id)
+private string Details()
 {
    return ZayaApiClient.Account.Details()
 }
